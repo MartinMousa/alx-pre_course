@@ -1,2 +1,1 @@
-My first readme
-update form github interface
+edit from github
